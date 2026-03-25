@@ -1,0 +1,10 @@
+langgraph
+langchain
+streamlit
+faiss-cpu
+sentence-transformers
+ollama
+numpy
+python-dotenv
+langsmith
+ragas
