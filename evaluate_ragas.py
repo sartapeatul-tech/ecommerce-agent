@@ -15,6 +15,7 @@ from ragas.metrics import faithfulness, answer_relevancy
 from datasets import Dataset
 
 def run_evaluation():
+    
     # Sample data for evaluation
     questions = [
         "What are some good wireless headphones under 100?",
